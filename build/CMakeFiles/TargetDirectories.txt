@@ -1,0 +1,4 @@
+/home/keyzarrasya/Documents/Programming/c/shell/build/CMakeFiles/build_shell.dir
+/home/keyzarrasya/Documents/Programming/c/shell/build/CMakeFiles/run.dir
+/home/keyzarrasya/Documents/Programming/c/shell/build/CMakeFiles/edit_cache.dir
+/home/keyzarrasya/Documents/Programming/c/shell/build/CMakeFiles/rebuild_cache.dir
